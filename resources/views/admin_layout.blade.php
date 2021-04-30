@@ -330,7 +330,7 @@
 						<li>
 							<a class="dropmenu" href="#"><i class="icon-folder-close-alt"></i><span class="hidden-tablet">Categories</span></a>
 							<ul>
-								<li><a class="submenu" href="{{URL::to('/all_category')}}"><i class="icon-file-alt"></i><span class="hidden-tablet">All Category</span></a></li>
+								<li><a class="submenu" href="{{URL::to('/all_category')}}"><i class="icon-file-alt"></i><span class="hidden-tablet">All Categories</span></a></li>
 								<li><a class="submenu" href="{{URL::to('/add_category')}}"><i class="icon-file-alt"></i><span class="hidden-tablet">Add Category</span></a></li>
 							</ul>
 						</li>
@@ -344,7 +344,7 @@
 						</li>
 
 							<li>
-							<a class="dropmenu" href="#"><i class="icon-folder-close-alt"></i><span class="hidden-tablet">Products</span><span class="label label-important">New</span></a>
+							<a class="dropmenu" href="#"><i class="icon-folder-close-alt"></i><span class="hidden-tablet">Products</span></span></a>
 							<ul>
 								<li><a class="submenu" href="{{URL::to('/all_product')}}"><i class="icon-file-alt"></i><span class="hidden-tablet">All Products</span></a></li>
 								<li><a class="submenu" href="{{URL::to('/add_product')}}"><i class="icon-file-alt"></i><span class="hidden-tablet">Add Product</span></a></li>
