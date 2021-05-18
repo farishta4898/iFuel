@@ -80,3 +80,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # iFuel
+iFuel is an online fuel delivery system. Initiated as a platform to deliver fuel on demand - anywhere, anytime!
