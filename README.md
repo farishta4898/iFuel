@@ -1,5 +1,5 @@
 <h2> ©2021 iFuel by Farishta Kabir </h2>
-<p><em>The MVC Structure Shortcuts:</p></em><a href="https://github.com/farishta4898/iFuel/tree/main/app">Model(s) | </a><a href="https://github.com/farishta4898/iFuel/tree/main/resources/views"> View(s) | </a><a href="https://github.com/farishta4898/iFuel/tree/main/app/Http/Controllers">Controller(s)</a></p>
+<p><b>The MVC Structure Shortcuts: </b><a href="https://github.com/farishta4898/iFuel/tree/main/app">Model(s) | </a><a href="https://github.com/farishta4898/iFuel/tree/main/resources/views"> View(s) | </a><a href="https://github.com/farishta4898/iFuel/tree/main/app/Http/Controllers">Controller(s)</a></p>
 
 <p align="center"><img src="https://miro.medium.com/max/934/1*cPt2YI-5YxhfL3_Uhw0txA.png" width="400"></p>
 
