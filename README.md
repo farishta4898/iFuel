@@ -1,7 +1,7 @@
 <h2> About iFuel </h2>
 <p><img src="https://github.com/farishta4898/iFuel/blob/main/public/frontend/images/fuel%20icon.png" width="50px" height="50px">
 iFuel is an online fuel delivery system. Initiated as a platform to deliver fuel on demand - anywhere, anytime!</p>
-<h4> ©2021 iFuel by Farishta Kabir </h4>
+<h4> ©May 2021 iFuel by Farishta Kabir </h4>
 <p><b>‣ The MVC Structure Shortcuts: </b><a href="https://github.com/farishta4898/iFuel/tree/main/app">Model(s) | </a><a href="https://github.com/farishta4898/iFuel/tree/main/resources/views"> View(s) | </a><a href="https://github.com/farishta4898/iFuel/tree/main/app/Http/Controllers">Controller(s)</a></p>
 
 <p align="center"><img src="https://miro.medium.com/max/934/1*cPt2YI-5YxhfL3_Uhw0txA.png" width="400"></p>
